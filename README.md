@@ -21,9 +21,11 @@ https://github.com/lstasio5/bamazon/blob/master/connected.png
 Bamazon application will prompt the user with two messages:
 The first prompt asks them to provide the user ID of the item they want to purchase.
 
+https://github.com/lstasio5/bamazon/blob/master/firstpromptworking.png
 
 
 The second message should ask how many units of the product they would like to buy.
+I am having trouble getting the second function to display after the first is answered.
 
 
 
