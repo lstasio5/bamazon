@@ -14,14 +14,15 @@ department_name
 price (cost to customer)
 stock_quantity (how much of the product is available in stores)
 
-
-
-Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
-The app should then prompt users with two messages.
+https://github.com/lstasio5/bamazon/blob/master/connected.png
 
 
 
-The first should ask them the ID of the product they would like to buy.
+Bamazon application will prompt the user with two messages:
+The first prompt asks them to provide the user ID of the item they want to purchase.
+
+
+
 The second message should ask how many units of the product they would like to buy.
 
 
